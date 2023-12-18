@@ -16,7 +16,7 @@ ENTRADAS DE LA FUNCIÓN
 3) Lista de variables (constantes) que no se les considera error, de colocar ninguna se considerará todo como una variable con error
 
 Las siguientes entradas corresponden a opciones que se tienen sobre los outputs
-1 ---> Sí
+1 ---> Sí \\
 
 0 ---> No
 
