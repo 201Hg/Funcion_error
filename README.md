@@ -17,6 +17,7 @@ ENTRADAS DE LA FUNCIÓN
 
 Las siguientes entradas corresponden a opciones que se tienen sobre los outputs
 1 ---> Sí
+
 0 ---> No
 
 4) Visualizar unicamente la expresión del error de propagación (0 ó 1)
