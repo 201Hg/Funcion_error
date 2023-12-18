@@ -14,4 +14,11 @@ ENTRADAS DE LA FUNCIÓN
 1) Función simbólica de interés de sympy
 2) Lista de variables que poseen error
 3) Lista de variables (constantes) que no se les considera error, de colocar ninguna se considerará todo como una variable con error
-4) 
+
+Las siguientes entradas corresponden a opciones que se tienen sobre los outputs
+1 ---> Sí
+0 ---> No
+
+4) Visualizar unicamente la expresión del error de propagación (0 ó 1)
+5) Generar texto en formato latex (0 ó 1)
+6) Convertir la expresión simbólica en una expresión numérica para realizar cálculos (0 ó 1)
